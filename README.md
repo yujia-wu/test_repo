@@ -1,8 +1,5 @@
-# test_repo
-This is a test repository.
+# starter_folder
 
-This is a test repository.
+This repo....
 
-This is a test repository.
-
-This is a test repo.
+It is organised as follows...
